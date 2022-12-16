@@ -1,0 +1,35 @@
+{
+    "name": "invenkantor",
+    "short_name": "invenlite",
+    "description": "Progressive Web App invenlite.",
+    "icons": [
+        {
+            "src": "./icons/icon-32.png",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-256.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "start_url": "/coba-laravel/",
+    "display": "fullscreen",
+    "theme_color": "#f45",
+    "background_color": "#fff"
+}
